@@ -1,0 +1,48 @@
+QuantomCost:
+29
+Number of sets:
+8
+Input Data:
+0
+1
+2
+3
+4
+5
+6
+7
+Output Data:
+0
+2
+1
+4
+3
+6
+5
+7
+Target and Control length:
+11
+Control:
+2
+1
+1
+2
+1
+2
+2
+1
+2
+3
+2
+Target:
+1
+2
+3
+1
+2
+3
+1
+2
+3
+2
+3

@@ -1,0 +1,10 @@
+QuantomCost:
+29
+Input Data:
+0,1,2,3,
+Output Data:
+0,2,3,1,
+Control:
+2,1,
+Target:
+1,2,
